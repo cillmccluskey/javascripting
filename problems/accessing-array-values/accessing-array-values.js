@@ -1,3 +1,4 @@
 console.log('mic check, this thing on??')
 
-console.log("hello world")
+const food = ['apple','pizza','pear']
+console.log(food[1])
